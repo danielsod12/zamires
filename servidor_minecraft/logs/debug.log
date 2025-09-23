@@ -6616,3 +6616,94 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [23Sep2025 16:15:07.334] [Server thread/INFO] [Easy NPC/]: Opening menu ee4840f5-d47d-4489-b095-f2b29b0dd524 for npc 1411922d-174b-4db4-9c64-60a55426b012 and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2366.88, y=77.00, z=-3803.92] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[VENDEDOR]}]
 [23Sep2025 16:15:47.877] [Server thread/INFO] [Easy NPC/]: Opening menu 8fd8b456-560a-45f1-a762-692436de096f for npc 1411922d-174b-4db4-9c64-60a55426b012 and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2365.71, y=77.00, z=-3802.90] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[VENDEDOR]}]
 [23Sep2025 16:15:48.527] [Server thread/INFO] [Easy NPC/]: Opening menu ab5268b6-0de9-4e98-8d46-6c4cb8ac3141 for npc 1411922d-174b-4db4-9c64-60a55426b012 and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2365.70, y=77.00, z=-3802.90] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[VENDEDOR]}]
+[23Sep2025 16:16:04.057] [Server thread/INFO] [Easy NPC/]: Opening menu 19870cce-d3e1-4dd1-9a6c-3cdf9baa31ad for npc 1411922d-174b-4db4-9c64-60a55426b012 and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2365.70, y=77.00, z=-3802.90] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[VENDEDOR]}]
+[23Sep2025 16:16:07.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Sep2025 16:16:07.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Sep2025 16:16:49.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Survival Mode]
+[23Sep2025 16:17:54.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Teleported lentojas0 to zamires]
+[23Sep2025 16:18:19.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Creative Mode]
+[23Sep2025 16:18:29.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Survival Mode]
+[23Sep2025 16:19:03.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Creative Mode]
+[23Sep2025 16:19:41.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Teleported lentojas0 to zamires]
+[23Sep2025 16:19:55.702] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/11653, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Sep2025 16:19:55.702] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/11653, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Sep2025 16:19:55.703] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['Humanoid'/11653, l='ServerLevel[world]', x=2433.50, y=88.06, z=-3779.50] ...
+[23Sep2025 16:19:55.703] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['Humanoid'/11653, l='ServerLevel[world]', x=2433.50, y=88.06, z=-3779.50] ...
+[23Sep2025 16:19:56.681] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/11659, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Sep2025 16:19:56.681] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/11659, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Sep2025 16:19:56.778] [Server thread/INFO] [Easy NPC/]: Opening menu c5dcd9a6-346e-46a1-ab11-1c6f8fa32a94 for npc 385d88cf-858e-4264-99ce-5143ddc1531a and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2433.95, y=88.06, z=-3781.37] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[23Sep2025 16:20:01.984] [Server thread/INFO] [Easy NPC/]: Opening menu 9deecab1-34a8-4085-abda-f1f1e96e66a5 for npc 385d88cf-858e-4264-99ce-5143ddc1531a and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2433.95, y=88.06, z=-3781.37] with ConfigurationMenu.SCALING[translation{key='text.easy_npc.config.scaling.title', args=[Humanoid]}]
+[23Sep2025 16:20:22.056] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/11723, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Sep2025 16:20:22.056] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/11723, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Sep2025 16:20:22.130] [Server thread/INFO] [Easy NPC/]: Opening menu f84702ae-c786-4161-af1d-1b0e95150fc1 for npc 385d88cf-858e-4264-99ce-5143ddc1531a and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2434.18, y=88.06, z=-3781.36] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[23Sep2025 16:20:24.030] [Server thread/INFO] [Easy NPC/]: Opening menu 7b499ee0-d056-465e-94a4-6915da219769 for npc 385d88cf-858e-4264-99ce-5143ddc1531a and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2434.18, y=88.06, z=-3781.36] with ConfigurationMenu.SCALING[translation{key='text.easy_npc.config.scaling.title', args=[Humanoid]}]
+[23Sep2025 16:20:28.950] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/11730, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Sep2025 16:20:28.950] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/11730, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Sep2025 16:20:29.038] [Server thread/INFO] [Easy NPC/]: Opening menu 527cdb2d-b8f4-4a86-a3a3-b5f6d6b2d002 for npc 385d88cf-858e-4264-99ce-5143ddc1531a and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2434.15, y=88.06, z=-3781.31] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[23Sep2025 16:20:30.979] [Server thread/INFO] [Easy NPC/]: Opening menu beeffd69-866e-4d5b-ae52-7688ed326d1e for npc 385d88cf-858e-4264-99ce-5143ddc1531a and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2434.15, y=88.06, z=-3781.31] with ConfigurationMenu.SCALING[translation{key='text.easy_npc.config.scaling.title', args=[Humanoid]}]
+[23Sep2025 16:21:03.629] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/11812, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Sep2025 16:21:03.629] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/11812, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Sep2025 16:21:03.630] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['Humanoid'/11812, l='ServerLevel[world]', x=2420.50, y=88.06, z=-3779.50] ...
+[23Sep2025 16:21:03.630] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['Humanoid'/11812, l='ServerLevel[world]', x=2420.50, y=88.06, z=-3779.50] ...
+[23Sep2025 16:21:06.336] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/11815, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Sep2025 16:21:06.336] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/11815, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Sep2025 16:21:06.492] [Server thread/INFO] [Easy NPC/]: Opening menu 111cf14d-f43a-45d9-b047-99c3cbd7f51c for npc 594787c4-f0c4-481e-9d8f-aa3901433096 and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2420.35, y=88.06, z=-3781.42] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[23Sep2025 16:21:07.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Sep2025 16:21:07.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Sep2025 16:21:23.505] [Server thread/INFO] [Easy NPC/]: Opening menu 6d5e55b5-c624-4cb1-aaaa-377f19952806 for npc 594787c4-f0c4-481e-9d8f-aa3901433096 and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2420.35, y=88.06, z=-3781.42] with ConfigurationMenu.SCALING[translation{key='text.easy_npc.config.scaling.title', args=[Humanoid]}]
+[23Sep2025 16:22:05.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wf0tews8zesv]: started parsing
+[23Sep2025 16:22:05.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wf0tews8zesv]: Consuming argument `spruce_planks`
+[23Sep2025 16:22:05.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wf0tews8zesv]: Finished looking at arguments. Finalizing command.
+[23Sep2025 16:22:05.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qz9bfznjkn2z]: started parsing
+[23Sep2025 16:22:05.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qz9bfznjkn2z]: Consuming argument `spruce_planks`
+[23Sep2025 16:22:05.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qz9bfznjkn2z]: Finished looking at arguments. Finalizing command.
+[23Sep2025 16:22:06.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tm03hepajjbw]: started parsing
+[23Sep2025 16:22:06.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tm03hepajjbw]: Consuming argument `stone_bricks`
+[23Sep2025 16:22:06.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tm03hepajjbw]: Finished looking at arguments. Finalizing command.
+[23Sep2025 16:22:06.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ubhti9jwxnh]: started parsing
+[23Sep2025 16:22:06.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ubhti9jwxnh]: Consuming argument `stone_bricks`
+[23Sep2025 16:22:06.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ubhti9jwxnh]: Finished looking at arguments. Finalizing command.
+[23Sep2025 16:22:06.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xdk4w159q5fc]: started parsing
+[23Sep2025 16:22:06.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xdk4w159q5fc]: Consuming argument `stone_bricks`
+[23Sep2025 16:22:06.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xdk4w159q5fc]: Finished looking at arguments. Finalizing command.
+[23Sep2025 16:22:16.029] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u1jkwhav5cn5]: started parsing
+[23Sep2025 16:22:16.029] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u1jkwhav5cn5]: Consuming argument `stone_bricks`
+[23Sep2025 16:22:16.030] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u1jkwhav5cn5]: Finished looking at arguments. Finalizing command.
+[23Sep2025 16:22:16.030] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ran3s7xoqvzj]: started parsing
+[23Sep2025 16:22:16.030] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ran3s7xoqvzj]: Consuming argument `stone_bricks`
+[23Sep2025 16:22:16.030] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ran3s7xoqvzj]: Finished looking at arguments. Finalizing command.
+[23Sep2025 16:22:16.661] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ekabfxvbe665]: started parsing
+[23Sep2025 16:22:16.662] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ekabfxvbe665]: Consuming argument `stone_bricks`
+[23Sep2025 16:22:16.662] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ekabfxvbe665]: Finished looking at arguments. Finalizing command.
+[23Sep2025 16:22:35.475] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kc09zsfnub6i]: started parsing
+[23Sep2025 16:22:35.476] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kc09zsfnub6i]: Consuming argument `stone_bricks`
+[23Sep2025 16:22:35.476] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kc09zsfnub6i]: Finished looking at arguments. Finalizing command.
+[23Sep2025 16:22:35.476] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o5pw8fvbukjj]: started parsing
+[23Sep2025 16:22:35.476] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o5pw8fvbukjj]: Consuming argument `stone_bricks`
+[23Sep2025 16:22:35.476] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o5pw8fvbukjj]: Finished looking at arguments. Finalizing command.
+[23Sep2025 16:22:36.482] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06wqau0zk79th]: started parsing
+[23Sep2025 16:22:36.482] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06wqau0zk79th]: Consuming argument `stone_bricks`
+[23Sep2025 16:22:36.482] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06wqau0zk79th]: Finished looking at arguments. Finalizing command.
+[23Sep2025 16:22:46.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yh0fgemeg07h]: started parsing
+[23Sep2025 16:22:46.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yh0fgemeg07h]: Consuming argument `stone_bricks`
+[23Sep2025 16:22:46.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yh0fgemeg07h]: Finished looking at arguments. Finalizing command.
+[23Sep2025 16:22:46.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hcbn47mgcq5g]: started parsing
+[23Sep2025 16:22:46.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hcbn47mgcq5g]: Consuming argument `stone_bricks`
+[23Sep2025 16:22:46.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hcbn47mgcq5g]: Finished looking at arguments. Finalizing command.
+[23Sep2025 16:22:46.287] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jh7l5cdrkl0o]: started parsing
+[23Sep2025 16:22:46.287] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jh7l5cdrkl0o]: Consuming argument `spruce_planks`
+[23Sep2025 16:22:46.287] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jh7l5cdrkl0o]: Finished looking at arguments. Finalizing command.
+[23Sep2025 16:22:46.288] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0353tn2sbsp8k]: started parsing
+[23Sep2025 16:22:46.288] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0353tn2sbsp8k]: Consuming argument `spruce_planks`
+[23Sep2025 16:22:46.288] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0353tn2sbsp8k]: Finished looking at arguments. Finalizing command.
+[23Sep2025 16:22:46.962] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tr9o7h6zuoi4]: started parsing
+[23Sep2025 16:22:46.962] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tr9o7h6zuoi4]: Consuming argument `spruce_planks`
+[23Sep2025 16:22:46.962] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tr9o7h6zuoi4]: Finished looking at arguments. Finalizing command.
+[23Sep2025 16:23:54.749] [Server thread/INFO] [Easy NPC/]: Opening menu 6373eec3-cc16-45c8-bbe8-c289dd193374 for npc 385d88cf-858e-4264-99ce-5143ddc1531a and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2433.40, y=88.06, z=-3781.20] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[23Sep2025 16:23:55.513] [Server thread/INFO] [Easy NPC/]: Opening menu 6c29865f-f40c-4dec-a99b-ec21fc78a8ff for npc 385d88cf-858e-4264-99ce-5143ddc1531a and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2433.40, y=88.06, z=-3781.20] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[Humanoid]}]
+[23Sep2025 16:23:57.092] [Server thread/INFO] [Easy NPC/]: Opening menu 14b9b2df-eea1-4e57-be1f-1940ce43a72c for npc 385d88cf-858e-4264-99ce-5143ddc1531a and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2433.40, y=88.06, z=-3781.20] with ConfigurationMenu.PLAYER_SKIN[translation{key='text.easy_npc.config.player_skin.title', args=[Humanoid]}]
+[23Sep2025 16:25:09.324] [Server thread/INFO] [Easy NPC/]: Opening menu c8765086-7ed9-4676-a7de-c9c78b62dd33 for npc 594787c4-f0c4-481e-9d8f-aa3901433096 and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2420.03, y=88.06, z=-3781.89] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[23Sep2025 16:25:10.446] [Server thread/INFO] [Easy NPC/]: Opening menu 55409683-b458-4fbb-aff9-d5a739a85217 for npc 594787c4-f0c4-481e-9d8f-aa3901433096 and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2420.03, y=88.06, z=-3781.88] with ConfigurationMenu.SCALING[translation{key='text.easy_npc.config.scaling.title', args=[Humanoid]}]
+[23Sep2025 16:25:15.351] [Server thread/INFO] [Easy NPC/]: Opening menu 049b27b8-0c72-43f4-b26a-7caa641af3dd for npc 594787c4-f0c4-481e-9d8f-aa3901433096 and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2420.04, y=88.06, z=-3781.83] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[23Sep2025 16:25:16.381] [Server thread/INFO] [Easy NPC/]: Opening menu 9b199f51-b8fe-4f57-a700-b8c87d3887d9 for npc 594787c4-f0c4-481e-9d8f-aa3901433096 and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2420.04, y=88.06, z=-3781.82] with ConfigurationMenu.SCALING[translation{key='text.easy_npc.config.scaling.title', args=[Humanoid]}]
+[23Sep2025 16:25:26.977] [Server thread/INFO] [Easy NPC/]: Opening menu 8cf7f10c-be80-4309-a968-df453c18a458 for npc 385d88cf-858e-4264-99ce-5143ddc1531a and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2432.96, y=88.06, z=-3781.53] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]

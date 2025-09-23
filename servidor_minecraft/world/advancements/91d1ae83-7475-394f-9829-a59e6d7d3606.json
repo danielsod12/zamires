@@ -2624,6 +2624,12 @@
     },
     "done": true
   },
+  "slashblade:blade/ex/fox_white": {
+    "criteria": {
+      "crafting": "2025-09-23 16:13:58 +0000"
+    },
+    "done": true
+  },
   "slashblade:tips/bladestand": {
     "criteria": {
       "getitem1": "2025-09-23 15:46:44 +0000"
