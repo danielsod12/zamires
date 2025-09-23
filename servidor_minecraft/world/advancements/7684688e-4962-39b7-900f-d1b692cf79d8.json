@@ -1921,6 +1921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-09-23 16:55:23 +0000"
+    },
+    "done": true
+  },
   "slashblade:blade/ex/fox_white": {
     "criteria": {
       "crafting": "2025-09-23 16:02:53 +0000"
@@ -1933,6 +1939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-09-23 16:55:23 +0000"
+    },
+    "done": true
+  },
   "slashblade:blade/s_wood": {
     "criteria": {
       "crafting": "2025-09-23 15:46:48 +0000"
@@ -1942,6 +1954,12 @@
   "slashblade:arts/quick_charge": {
     "criteria": {
       "customtrigger": "2025-09-23 16:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-09-23 16:53:58 +0000"
     },
     "done": true
   },
@@ -1981,6 +1999,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-09-23 16:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-09-23 16:53:58 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/judgement_cut": {
     "criteria": {
       "customtrigger": "2025-09-23 16:02:09 +0000"
@@ -1990,6 +2020,12 @@
   "slashblade:arts/shooting/summonedswords": {
     "criteria": {
       "customtrigger": "2025-09-23 16:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-09-23 16:55:23 +0000"
     },
     "done": true
   },
