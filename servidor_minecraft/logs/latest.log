@@ -4169,3 +4169,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [23Sep2025 18:29:51.903] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/36061, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
 [23Sep2025 18:29:51.904] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/36061, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
 [23Sep2025 18:29:51.904] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['caballero'/36061, l='ServerLevel[world]', x=2420.49, y=52.00, z=-3913.49].
+[23Sep2025 19:10:13.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zamires lost connection: Disconnected
+[23Sep2025 19:10:13.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires left the game
+[23Sep2025 19:10:13.870] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zamires

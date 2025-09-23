@@ -11496,3 +11496,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [23Sep2025 19:01:07.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Sep2025 19:06:07.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Sep2025 19:06:07.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Sep2025 19:10:13.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zamires lost connection: Disconnected
+[23Sep2025 19:10:13.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires left the game
+[23Sep2025 19:10:13.870] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of zamires
+[23Sep2025 19:10:13.870] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zamires
+[23Sep2025 19:11:07.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Sep2025 19:11:07.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Sep2025 19:16:07.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Sep2025 19:16:07.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
