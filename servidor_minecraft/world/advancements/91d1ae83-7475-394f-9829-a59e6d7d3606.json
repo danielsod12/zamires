@@ -2642,6 +2642,12 @@
     },
     "done": true
   },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-09-23 18:16:53 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/shooting/spiral_swords": {
     "criteria": {
       "customtrigger": "2025-09-23 18:16:03 +0000"
