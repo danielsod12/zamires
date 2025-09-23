@@ -3341,3 +3341,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [23Sep2025 15:54:07.802] [Server thread/INFO] [Easy NPC/]: Opening menu 8a988502-e0d8-4c93-9ffa-a36befb1c168 for npc ede1cdd5-bf42-4840-85b6-bac060ea11be and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2414.76, y=77.00, z=-3792.14] with DialogMenuHandler{displayName=literal{manuel}[style={color=#FFFFFF}]}
 [23Sep2025 15:55:25.781] [Server thread/INFO] [Easy NPC/]: Opening menu ea9a1347-cad0-461f-af88-8d14cce00942 for npc 1411922d-174b-4db4-9c64-60a55426b012 and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2365.61, y=77.00, z=-3802.81] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[VENDEDOR]}]
 [23Sep2025 15:55:26.993] [Server thread/INFO] [Easy NPC/]: Opening menu 39c6e56c-1752-4ec8-8239-ffab192d40f4 for npc 1411922d-174b-4db4-9c64-60a55426b012 and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2365.59, y=77.00, z=-3802.82] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[VENDEDOR]}]
+[23Sep2025 15:57:01.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Survival Mode]
+[23Sep2025 15:57:23.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Creative Mode]
+[23Sep2025 15:57:31.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Survival Mode]
+[23Sep2025 15:57:46.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lentojas0 fell from a high place
+[23Sep2025 15:58:29.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Creative Mode]
+[23Sep2025 15:59:03.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Survival Mode]
+[23Sep2025 15:59:21.651] [Server thread/INFO] [Easy NPC/]: Opening menu 9cb28e55-3c65-4e8b-99b1-8c8dd21f8313 for npc fb31cf40-c165-4730-a43e-29efe7597d04 and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2410.00, y=87.00, z=-3814.45] with DialogMenuHandler{displayName=literal{sofia}[style={color=#FFFFFF}]}
+[23Sep2025 15:59:30.585] [Server thread/INFO] [Easy NPC/]: Opening menu ee18fc20-7599-4bb2-be3c-3f854390d7b4 for npc da9f484d-a427-4c16-aeb7-919cf0f391f7 and player ServerPlayer['lentojas0'/1166, l='ServerLevel[world]', x=2428.23, y=88.00, z=-3799.83] with DialogMenuHandler{displayName=literal{astolfo}[style={color=#FFFFFF}]}
+[23Sep2025 15:59:33.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Creative Mode]
+[23Sep2025 16:00:39.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires has made the advancement [Shooting Arts -Summoned Swords-  ]
+[23Sep2025 16:01:27.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires has made the advancement [Abilities -Trick Dodge-          ]
+[23Sep2025 16:01:27.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires has made the advancement [Abilities -Kick Jump-            ]
+[23Sep2025 16:01:55.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires has made the advancement [Blade Arts -Quick Charge-         ]
+[23Sep2025 16:01:55.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires has made the advancement [Blade Arts -Judgement Cut EX-     ]
+[23Sep2025 16:01:59.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires has made the advancement [Blade Arts -Aerial Rave A-       ]
+[23Sep2025 16:02:01.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires has made the advancement [Blade Arts -Aerial Rave B-       ]
+[23Sep2025 16:02:09.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires has made the advancement [Blade Arts -Judgement Cut-        ]
+[23Sep2025 16:02:22.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Teleported lentojas0 to zamires]
+[23Sep2025 16:02:53.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires has made the advancement [-Weiss- SakuraFox]
