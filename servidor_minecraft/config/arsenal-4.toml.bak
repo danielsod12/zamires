@@ -1,4 +1,4 @@
-"Ancient Remnant" = {}
+Wadjet = {}
 
 [Etc]
 	#Lava Opacity for the Ignitium Helemt.
@@ -338,4 +338,50 @@
 	#Amethyst Crab's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	AmethystCrabDamageMultiplier = 1.0
+
+["Ancient Remnant"]
+	#Ancient Remnant's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	AncientRemnantHealthMultiplier = 1.0
+	#Ancient Remnant's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	AncientRemnantDamageMultiplier = 1.0
+	#AncientRemnant's Healing with out target
+	#Range: 0.0 ~ 1000000.0
+	AncientRemnantNatureHealing = 10.0
+	#Ancient Remnant's Immune to Long distance attack range.
+	#Range: 1.0 ~ 1000000.0
+	"Ancient Remnant's prevent attacks from far away Range" = 14.0
+	#Ancient Remnant's DamageCap
+	#Range: 0.0 ~ 1000000.0
+	AncientRemnantCap = 21.0
+	#Ancient Remnant's block breaking ignore the MobGriefing
+	AncientRemnantBlockBreaking = true
+	#Remnant's Charge Hp Damage
+	#Range: 0.0 ~ 1.0
+	"Remnant's Charge Hp Damage" = 0.1
+	#Remnant's Hp Damage
+	#Range: 0.0 ~ 1.0
+	"Remnant's Normal attack Hp Damage" = 0.05
+	#Remnant's Stomp Hp Damage
+	#Range: 0.0 ~ 1.0
+	"Remnant's Stomp Hp Damage" = 0.03
+	#Remnant's EarthQuake Damage
+	#Range: 0.0 ~ 1000000.0
+	"Remnant's EarthQuakeDamage" = 11.0
+
+[Koboleton]
+	#Cause Koboleton to Drop Item In Hand Percent
+	#Range: 0.0 ~ 100.0
+	CauseKoboletontoDropItemInHandPercent = 5.0
+
+[Kobolediator]
+	#Kobolediator's block breaking ignore the MobGriefing
+	KobolediatorBlockBreaking = false
+	#Kobolediator's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	KobolediatorHealthMultiplier = 1.0
+	#Kobolediator's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	KobolediatorDamageMultiplier = 1.0
 

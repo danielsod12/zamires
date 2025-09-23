@@ -152,12 +152,6 @@
     },
     "done": true
   },
-  "rpgsmw:berserk_class": {
-    "criteria": {
-      "berserk_class_0": "2025-09-20 09:49:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-09-20 09:58:21 +0000"
@@ -2603,6 +2597,30 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-09-21 18:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-22 16:32:23 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/purple_bone_staff": {
+    "criteria": {
+      "purple_bone_staff": "2025-09-22 16:53:35 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:miphril": {
+    "criteria": {
+      "miphril_0": "2025-09-22 17:33:02 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:berserk_class": {
+    "criteria": {
+      "berserk_class_0": "2025-09-22 18:29:22 +0000"
     },
     "done": true
   },

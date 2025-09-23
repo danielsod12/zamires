@@ -425,20 +425,20 @@
 	# Default: 5.0
 	# Range: 0.0 ~ 1000.0
 	NEEDLE_PROJECTILE_DAMAGE = 5.0
-	#Damage dealt by Needle item on hit (both player and target).
-	#
-	#Default: 2.0
-	#Range: 0.0 ~ 1000.0
+	# Damage dealt by Needle item on hit (both player and target).
+	# 
+	# Default: 2.0
+	# Range: 0.0 ~ 1000.0
 	NEEDLE_ITEM_DAMAGE = 2.0
-	#Damage dealt by Holiness Star when thrown.
-	#
-	#Default: 8.0
-	#Range: 0.0 ~ 1000.0
+	# Damage dealt by Holiness Star when thrown.
+	# 
+	# Default: 8.0
+	# Range: 0.0 ~ 1000.0
 	HOLINESS_STAR_DAMAGE = 8.0
-	#Damage dealt by Brace projectile per hit.
-	#
-	#Default: 4.0
-	#Range: 0.0 ~ 1000.0
+	# Damage dealt by Brace projectile per hit.
+	# 
+	# Default: 4.0
+	# Range: 0.0 ~ 1000.0
 	BRACE_PROJECTILE_DAMAGE = 4.0
 	#Lifesteal fraction per hit for Crystallized Blood Scythe.
 	#
