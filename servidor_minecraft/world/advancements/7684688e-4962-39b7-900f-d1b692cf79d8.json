@@ -1831,9 +1831,81 @@
     },
     "done": true
   },
+  "slashblade:blade/s_bamboo": {
+    "criteria": {
+      "crafting": "2025-09-23 15:46:34 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_wood": {
+    "criteria": {
+      "crafting": "2025-09-23 15:46:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-09-23 15:47:09 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-09-23 15:47:09 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/shooting/summonedswords": {
+    "criteria": {
+      "customtrigger": "2025-09-23 16:00:39 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/trick_dodge": {
+    "criteria": {
+      "customtrigger": "2025-09-23 16:01:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2025-09-23 16:01:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/judgement_cut_just": {
+    "criteria": {
+      "customtrigger": "2025-09-23 16:01:55 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/quick_charge": {
+    "criteria": {
+      "customtrigger": "2025-09-23 16:01:55 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-09-23 16:01:59 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-09-23 16:02:01 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/judgement_cut": {
+    "criteria": {
+      "customtrigger": "2025-09-23 16:02:09 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/ex/fox_white": {
+    "criteria": {
+      "crafting": "2025-09-23 16:02:53 +0000"
     },
     "done": true
   },
@@ -1861,12 +1933,6 @@
     },
     "done": true
   },
-  "slashblade:blade/s_bamboo": {
-    "criteria": {
-      "crafting": "2025-09-23 15:46:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-09-23 16:04:14 +0000"
@@ -1885,39 +1951,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-23 17:47:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-09-23 16:04:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-23 17:47:19 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/aerial_b": {
-    "criteria": {
-      "customtrigger": "2025-09-23 16:02:01 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/aerial_a": {
-    "criteria": {
-      "customtrigger": "2025-09-23 16:01:59 +0000"
-    },
-    "done": true
-  },
-  "slashblade:abilities/trick_dodge": {
-    "criteria": {
-      "customtrigger": "2025-09-23 16:01:27 +0000"
     },
     "done": true
   },
@@ -1930,60 +1966,6 @@
   "spartanshields:recipes/golden_basic_shield": {
     "criteria": {
       "has_gold_ingot": "2025-09-23 16:04:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-09-23 16:55:23 +0000"
-    },
-    "done": true
-  },
-  "slashblade:blade/ex/fox_white": {
-    "criteria": {
-      "crafting": "2025-09-23 16:02:53 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/judgement_cut_just": {
-    "criteria": {
-      "customtrigger": "2025-09-23 16:01:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-09-23 16:55:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-23 17:47:19 +0000"
-    },
-    "done": true
-  },
-  "slashblade:blade/s_wood": {
-    "criteria": {
-      "crafting": "2025-09-23 15:46:48 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/quick_charge": {
-    "criteria": {
-      "customtrigger": "2025-09-23 16:01:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_bed": {
-    "criteria": {
-      "has_pink_wool": "2025-09-23 16:53:58 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/potions": {
-    "criteria": {
-      "has_item": "2025-09-23 15:47:09 +0000"
     },
     "done": true
   },
@@ -2005,15 +1987,21 @@
     },
     "done": true
   },
-  "slashblade:abilities/kick_jump": {
-    "criteria": {
-      "customtrigger": "2025-09-23 16:01:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-09-23 16:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-23 16:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-09-23 16:53:58 +0000"
     },
     "done": true
   },
@@ -2023,21 +2011,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-23 17:47:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_pink_wool": "2025-09-23 16:53:58 +0000"
     },
     "done": true
   },
-  "slashblade:arts/judgement_cut": {
+  "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
-      "customtrigger": "2025-09-23 16:02:09 +0000"
+      "has_red_wool": "2025-09-23 16:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-09-23 16:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-09-23 16:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-23 17:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-23 17:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-23 17:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-23 17:47:19 +0000"
     },
     "done": true
   },
@@ -2050,24 +2068,6 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-09-23 17:47:19 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/shooting/summonedswords": {
-    "criteria": {
-      "customtrigger": "2025-09-23 16:00:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2025-09-23 16:55:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-23 16:04:14 +0000"
     },
     "done": true
   },
