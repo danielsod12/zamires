@@ -16,7 +16,7 @@
 	#Mns tries to replicate vanilla bow draw and reduces dmg of basic attacks if bow is not fully drawn. Enable for machine gun bows.
 	REMOVE_DRAW_SPEED_COOLDOWN = false
 	#Range: > 0
-	min_level_map_drops = 25
+	min_level_map_drops = 1
 	#Range: > 0
 	MIN_SLIME_SIZE_FOR_LOOT = 3
 	#Range: > 0
